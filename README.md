@@ -16,9 +16,7 @@ LinkedIn
  responsive_builder : https://pub.dev/packages/responsive_builder
  
  # ScreensShots
- ![linked1](https://user-images.githubusercontent.com/200/200-7a37b931-e589-4a9a-8c2a-2188fbac0dd9.jpg)
-
- ![linked1](https://user-images.githubusercontent.com/55906788/168733577-7a37b931-e589-4a9a-8c2a-2188fbac0dd9.jpg)
+![linked1](https://user-images.githubusercontent.com/55906788/168733577-7a37b931-e589-4a9a-8c2a-2188fbac0dd9.jpg)
 ![linked2](https://user-images.githubusercontent.com/55906788/168733580-dd8604a6-54fe-4256-89a4-4c20e38768f3.jpg)
 ![linked3](https://user-images.githubusercontent.com/55906788/168733581-5684da5c-4a69-4f6c-a72c-ece4fd42f062.jpg)
 ![linked4](https://user-images.githubusercontent.com/55906788/168733583-d7dc7045-009e-4647-a750-5f1a4397031f.jpg)
